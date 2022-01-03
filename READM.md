@@ -1,0 +1,1 @@
+This is just a starter app for docker with nodejs 16
